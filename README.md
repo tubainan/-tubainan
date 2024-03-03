@@ -12,12 +12,13 @@ Hey!👋 I'm  Tuba İnan ~ Java Fullstack Developer
 ###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tubainan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yagmurcurku" height="30" width="40" /></a>
-<a href="https://medium.com/@tubainan4406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yagmurcurku" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tubainan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tubainan4406" height="30" width="40" /></a>
+<a href="https://medium.com/@tubainan4406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tubainan4406" height="30" width="40" /></a>
 
 
 <div align="center">
- <a href="https://www.freecounterstat.com" title="website hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=852g14ys7w3fgyannf3cst5zlln3n4cu" border="0" title="website hit counter" alt="website hit counter"></a>
+ <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=852g14ys7w3fgyannf3cst5zlln3n4cu" border="0" title="website hit counter" alt="website hit counter"></a></noscript>
+
  <img src="https://shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2F{tubainan}%2Fgithub">
 <img src="https://profile-counter.glitch.me/tubainan/count.svg?"  />
 </div>
