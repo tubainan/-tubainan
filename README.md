@@ -17,7 +17,7 @@ Hey!👋 I'm  Tuba İnan ~ Java Fullstack Developer
 
 
 <div align="center">
-  ![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2F{tubainan}%2Fgithub)
+ <img src="https://shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2F{tubainan}%2Fgithub">
 <img src="https://profile-counter.glitch.me/tubainan/count.svg?"  />
 </div>
 
