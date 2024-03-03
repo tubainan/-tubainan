@@ -17,7 +17,7 @@ Hey!👋 I'm  Tuba İnan ~ Java Fullstack Developer
 
 
 <div align="center"style="background-color: lightgray;>
-<img src="https://profile-counter.glitch.me/tubainan/count.svg?style=funky&color=blue" alt="Profile Views Counter" />
+<img src="https://profile-counter.glitch.me/tubainan/count.svg?"style=funky&color=blue" alt="Profile Views Counter" />
 </div>
 
 ## 💻 Tech Stack:
