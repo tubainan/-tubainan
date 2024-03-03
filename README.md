@@ -3,7 +3,7 @@ Hey!👋 I'm  Tuba İnan ~ Java Fullstack Developer
 </h2>
 
 ---------------------
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F814FF&lines=Hi++%F0%9F%91%8B+;I'm+Tuba.;I'm+a+Java+Fullstack+Developer.;Glad+to+see+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F851FF&lines=Hi++%F0%9F%91%8B+;I'm+Tuba.;I'm+a+Java+Fullstack+Developer.;Glad+to+see+you.)](https://git.io/typing-svg)
 
 💫 I’m currently learning Java and React.
 
