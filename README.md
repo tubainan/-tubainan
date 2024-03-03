@@ -16,9 +16,8 @@ Hey!👋 I'm  Tuba İnan ~ Java Fullstack Developer
 <a href="https://medium.com/@tubainan4406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tubainan4406" height="30" width="40" /></a>
 
 
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/tubainan/count.svg?"  />
+<div align="center"style="background-color: lightgray;>
+<img src="https://profile-counter.glitch.me/tubainan/count.svg?style=funky&color=blue" alt="Profile Views Counter" />
 </div>
 
 ## 💻 Tech Stack:
