@@ -17,7 +17,7 @@ Hey!👋 I'm  Tuba İnan ~ Java Fullstack Developer
 
 
 <div align="center">
- <img src="https://counter11.optistats.ovh/public/freecounterstat.php?c=852g14ys7w3fgyannf3cst5zlln3n4cu" border="0" title="website visit counter" alt="website visit counter">
+ <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=852g14ys7w3fgyannf3cst5zlln3n4cu" border="0" title="website hit counter" alt="website hit counter">
 
  <img src="https://shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2F{tubainan}%2Fgithub">
 <img src="https://profile-counter.glitch.me/tubainan/count.svg?"  />
